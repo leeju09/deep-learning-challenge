@@ -2,7 +2,7 @@
 
 # Analysis Report
 
-###Analysis Overview:
+### Analysis Overview:
 
 Alphabet Soup, a nonprofit foundation, seeks a tool to help select funding applicants with the highest likelihood of success. The goal is to develop a neural network model that can act as a binary classifier to predict the success of applicants funded by Alphabet Soup. The model will be built using data from over 34,000 previously funded organizations.
 
@@ -64,3 +64,7 @@ This model achieved an accuracy of 73.71%, marking the best improvement over the
 Despite the optimization efforts, the target accuracy of 75% was not reached.
 
 Other supervised learning methods, such as logistic regression or random forest, might be explored as alternatives to the neural network approach to potentially achieve the desired accuracy of 75%.
+
+# Resources
+***************
+I used in-class activities, stackoverflow, and Xper
