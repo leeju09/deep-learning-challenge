@@ -14,16 +14,16 @@ The target variable for the model is IS_SUCCESSFUL:
 1 indicates successful use of funding.
 The model's features include:
 
-APPLICATION_TYPE — Type of application submitted to Alphabet Soup
-FFILIATION — Industry sector affiliation
-CLASSIFICATION — Classification of government organization
-USE_CASE — Purpose of the funding
-ORGANIZATION — Type of organization
-STATUS — Current status of the organization
-INCOME_AMT — Income level classification
-SPECIAL_CONSIDERATIONS — Special factors considered in the application
-ASK_AMT — Amount of funding requested
-Identification columns EIN and NAME will be excluded from the dataset before modeling.
+- APPLICATION_TYPE — Type of application submitted to Alphabet Soup
+- FFILIATION — Industry sector affiliation
+- CLASSIFICATION — Classification of government organization
+- USE_CASE — Purpose of the funding
+- ORGANIZATION — Type of organization
+- STATUS — Current status of the organization
+- INCOME_AMT — Income level classification
+- SPECIAL_CONSIDERATIONS — Special factors considered in the application
+- ASK_AMT — Amount of funding requested
+- Identification columns EIN and NAME will be excluded from the dataset before modeling.
 
 ### Model Compilation, Training, and Evaluation:
 
